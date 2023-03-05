@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehteshsm640
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning,data minning
+- 👀 I’m interested in Automation Testing
+- 🌱 I’m currently learning machine learning,data minning,Automation FrameWork
 - 💞️ I’m looking to collaborate on Ai problems 
 - 📫 How to reach me by my email adress which is ehtesham640@gmail.com
 
